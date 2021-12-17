@@ -1,3 +1,13 @@
+enter some value in text field>>
+>>>>   onChange 
+>>>>>  call handler function  
+>>>>>>>  do validation and 
+>>>>>set state of value 
+>>>set flag  flag 
+>>> click on submit it will check flag and give error
+
+
+
 create class component
 declear state 
 
