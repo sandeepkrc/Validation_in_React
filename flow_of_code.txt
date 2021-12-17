@@ -1,0 +1,9 @@
+create class component
+declear state 
+
+
+flag2:false,
+error:"",
+
+
+bind all functions
