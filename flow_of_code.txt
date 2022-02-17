@@ -16,4 +16,4 @@ flag2:false,
 error:"",
 
 
-bind all functions
+bind all functions or use arrow function (donot need to bind)
